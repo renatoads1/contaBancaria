@@ -1,0 +1,13 @@
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.deps.json
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.json
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.dev.json
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csprojAssemblyReference.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csproj.CoreCompileInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfoInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfo.cs
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\contabancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.genruntimeconfig.cache
